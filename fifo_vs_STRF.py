@@ -76,4 +76,5 @@ elif fifo_avg_waiting < srtf_avg_waiting:
     print("\nFIFO genera menores tiempos de espera promedio que SRTF.")
 else:
     print("\nAmbos algoritmos generan el mismo tiempo de espera promedio.")
+    
 
