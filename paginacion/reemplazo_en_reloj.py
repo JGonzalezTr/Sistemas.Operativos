@@ -56,4 +56,5 @@ if __name__ == "__main__":
     memory_frames = 3  # Número de marcos en memoria
     pages = [7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2]  # Secuencia de páginas
     clock_replacement_algorithm(memory_frames, pages)
-    
+
+
