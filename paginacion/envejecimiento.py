@@ -57,3 +57,4 @@ for i, page in enumerate(page_sequence):
     print(f"\nAcceso a la página {page}:")
     aging.access_page(page)
     aging.update_counters()
+
